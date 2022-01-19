@@ -1,4 +1,4 @@
-# hellow-World
+# hello-World
 My first repository
 Hi, I'm Peter
 I just started learning frontend development by self-studying
